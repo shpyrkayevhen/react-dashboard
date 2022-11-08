@@ -12,7 +12,6 @@
 ![Dashboard](https://i.ibb.co/Ns2nzMQ/10.png)
 ![Dashboard](https://i.ibb.co/ZV1kWcz/11.png)
 ![Dashboard](https://i.ibb.co/F70Gy8j/12.png)
-![Dashboard](https://i.ibb.co/1vB94Ht/13.png)
 ![Dashboard](https://i.ibb.co/r0SJqT6/14.png)
 ![Dashboard](https://i.ibb.co/VvQXdqW/15.png)
 ![Dashboard](https://i.ibb.co/DY2K3r5/17.png)
